@@ -23,3 +23,5 @@
 </p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hoyuo&show_icons=true)](https://wakatime.com/@hoyuo)
+
+[![wakatime](https://wakatime.com/badge/user/a432fe90-309a-4840-aa0e-7c7d0fa8ffbd.svg)](https://wakatime.com/@a432fe90-309a-4840-aa0e-7c7d0fa8ffbd)
