@@ -1,6 +1,7 @@
 ### Hi there, I'm [Hoyuo](https://github.com/Hoyuo) 👋
 
-![AI Token Monitor Badge](https://giunmtxxvapcgrpxjopq.supabase.co/functions/v1/badge/e96fb00f-ec75-43b5-96c9-8b6f9eb30e5d?provider=claude&period=month&style=flat)]
+![AI Token Monitor Badge](https://giunmtxxvapcgrpxjopq.supabase.co/functions/v1/badge/e96fb00f-ec75-43b5-96c9-8b6f9eb30e5d?provider=claude&period=month&style=flat)
+
 ![AI Token Monitor Badge](https://giunmtxxvapcgrpxjopq.supabase.co/functions/v1/badge/e96fb00f-ec75-43b5-96c9-8b6f9eb30e5d?provider=codex&period=month&style=flat)
 
 <p align="center">🛠 Tech Stack 🛠</p>
